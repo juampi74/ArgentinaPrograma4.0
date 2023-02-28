@@ -3,7 +3,7 @@ package practica;
 public class Ej1a {
 
 	public static void main(String[] args) {
-		int numeroInicio = 5;
+		int numeroInicio = 6;
 		int numeroFin = 14;
 			
 		int num = numeroInicio;
