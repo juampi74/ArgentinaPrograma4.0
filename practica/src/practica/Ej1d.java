@@ -4,7 +4,7 @@ public class Ej1d {
 
 	public static void main(String[] args) {
 
-		int numeroInicio = 5;
+		int numeroInicio = 1;
 		int numeroFin = 14;
 				
 		for(int num = numeroFin; num >= numeroInicio; num--) {
