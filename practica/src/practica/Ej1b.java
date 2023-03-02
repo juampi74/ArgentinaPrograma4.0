@@ -5,7 +5,7 @@ public class Ej1b {
 	public static void main(String[] args) {
 		
 		int numeroInicio = 5;
-		int numeroFin = 14;
+		int numeroFin = 11;
 			
 		int num = numeroInicio;
 			
