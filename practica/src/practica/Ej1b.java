@@ -6,6 +6,7 @@ public class Ej1b {
 		
 		int numeroInicio = 5;
 		int numeroFin = 11;
+
 			
 		int num = numeroInicio;
 			
