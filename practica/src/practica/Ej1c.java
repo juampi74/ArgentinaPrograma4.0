@@ -8,7 +8,7 @@ public class Ej1c {
 		int numeroFin = 14;
 			
 		int num = numeroInicio;
-		String mostrar = "P"; 
+		String mostrar = "H"; 
 			
 		while(num <= numeroFin) {
 			if (mostrar == "P") {
