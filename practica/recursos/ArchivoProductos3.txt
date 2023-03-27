@@ -1,0 +1,7 @@
+Leche,250.5
+Chocolate,400.4
+Vino,1150.8
+Nesquik,500.4
+Coca-Cola,299.5
+Vaso,700.0
+Harina,400.75
