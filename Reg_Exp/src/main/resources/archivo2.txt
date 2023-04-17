@@ -1,0 +1,5 @@
+Maria es docente, su email es maria123@gmail.com y su DNI es 31605906
+Juan es odontologo, su email es juan65@hotmail.com y su DNI es 23467916
+Pedro es futbolista, su email es pedroGonzales@yahoo.com y su DNI es 39359124
+Lucas es panadero, su email es lucas762@hotmail.com y su DNI es 17943268
+Renata es medica, su email es renata0308@gmail.com y su DNI es 41665132
